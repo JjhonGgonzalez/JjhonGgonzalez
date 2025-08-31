@@ -8,14 +8,13 @@
 </div>
 
 ![banner oficial](https://github.com/JjhonGgonzalez/JjhonGgonzalez/blob/main/banner.PNG)
-<div>
+
 🚀 Acerca de mí
 <img align="right" width="300" height="150" src="https://i.pinimg.com/originals/35/58/0d/35580d64b9b883fd0e0678595fc2aefd.gif">
 
-👨‍💻​​ ¡Hola! Soy un Analista de Sistemas especializado en ciberseguridad y desarrollo de software, con un enfoque integral en la protección de entornos IT y la creación de soluciones tecnológicas escalables.
-</div>
 
----
+## 👨‍💻​​ ¡Hola! Soy un Analista de Sistemas especializado en ciberseguridad y desarrollo de software, con un enfoque integral en la protección de entornos IT y la creación de soluciones tecnológicas escalables.
+
 **🔹 Desarrollo de Software Full Stack**
 
 -📱 Experiencia en desarrollo multiplataforma (Web, Android, iOS) con Flutter y Dart.
